@@ -1,1 +1,2 @@
-nowa zawwartosc   
+nowa zawwartos
+dodanie nowej funkcjonalnosci    
